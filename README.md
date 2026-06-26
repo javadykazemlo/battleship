@@ -1,3 +1,1 @@
-Basic Programming Mini Project
-Bu-Ali Sina University
-Battleship Game 🎯🚢
+A console-based Battleship game developed in C++. 🎯🚢
