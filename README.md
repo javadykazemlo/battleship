@@ -19,7 +19,10 @@ A console-based implementation of the classic Battleship game developed in C++.
 ## How to Build
 
 ```bash
-git clone https://github.com/your-username/battleship.git
+git clone https://github.com/javadykazemlo/battleship.git
+cd battleship
+g++ *.cpp -o battleship
+./battleship
 
 ```
 ## Future Improvements
